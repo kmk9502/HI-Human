@@ -1,0 +1,27 @@
+알고리즘
+
+    조건이 참이면 값 변환
+
+	조건 --> 참일 때 변환
+
+	num > i --> num = i
+
+    조건의 참거짓 여부에 따라 bool 값 반환
+
+	조건 ? 참 : 거짓
+
+	result = num < i ? True : False;
+
+
+프로그래밍
+
+    시프트연산자 : 비트 위치 이동
+
+ 	<< Left, >> Right
+
+    	num = 5; // 0000 0101
+
+	result = num << 2; // 0001 0100
+
+	printf(result); // result == 20
+
